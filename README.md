@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm Muhammed Fayiz V C, a Computer Science student passionate about coding, software engineering, and AI development.  
+I'm Muhammed Fayiz V C, a Computer Science student passionate about cloud, software engineering, and AI development.  
 
 - 🤖 Exploring AI-powered projects  
 - 🔭 Currently working on cool projects  
